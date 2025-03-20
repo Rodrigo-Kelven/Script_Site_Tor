@@ -1,4 +1,6 @@
 # Site na rede Tor
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) 
 
 Primeiramente, voce sabe o que é a rede Onion ou mais conhecida como Tor?
 Senão, leia se for do seu interesse, [Tor](https://cpiciber.codingrights.org/tor-onion/), é uma leitura ótima e de fácio entendimento.
@@ -8,8 +10,6 @@ Este projeto automatiza a criação de um serviço web acessível na rede Tor ut
 O serviço é configurado para usar o Nginx como servidor web e o Tor para criar um serviço oculto. 
 
 ## Pré-requisitos
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) 
 
 Antes de executar o script, você precisa ter os seguintes itens instalados em sua máquina:
 ***Não se preocupe se o docker não está intalado, o script irá fazer isto automaticamente.***
